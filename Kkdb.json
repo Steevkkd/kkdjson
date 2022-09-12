@@ -1,0 +1,12 @@
+ [
+    {
+        "rollno": "001",    
+        "name": "Arun",
+        "designatioon":"web deseign",
+		"address": {
+		"dno": "2968",
+		"area": "T-nagar",
+		"city": "chennai",
+		"team":["jhon","Anna","peter"]
+		}
+    }]
